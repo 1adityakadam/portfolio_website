@@ -598,6 +598,7 @@ export function Projects() {
               </div>
             </div>
           )}
+        </div>
       </div>
     </section>
   )
